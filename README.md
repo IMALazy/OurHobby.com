@@ -8,7 +8,7 @@ Platform sosial untuk setiap hobi, karya, dan komunitas yang tumbuh di sekitarny
 
 <p>
   <a href="#-mulai-di-sini">Mulai menjelajah</a> ·
-  <a href="#-fitur-utama">Lihat fitur</a> ·
+  <a href="#-fitur-utama">Lihat fitur</a> .
   <a href="#-bergabung-dengan-kami">Gabung komunitas</a>
 </p>
 
